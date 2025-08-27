@@ -1,0 +1,22 @@
+/* Hero Section */
+.hero {
+  height: 60vh;
+  background: url('bg_campus.jpg') center;
+  padding: 20px;
+  margin: 10px 0;
+  border: 1px solid #333;
+}
+
+
+
+/* Card Styling (Box Model demo) */
+.card {
+  margin: 15px;
+  padding: 20px;
+  border: 2px solid #ddd;
+}
+
+/* Footer */
+footer {
+  margin-top: 50px;
+}
